@@ -1,7 +1,5 @@
 # Sensical
 
-Visit https://github.com/Sensical-Org/Sensical for main Sensical repository
-
 When was the last time you wrote something down. Not for school, a project, or work -- just for yourself. Just to journal.
 
 Social media has pushed us to bandwagon on other's opinion. Causing us to be unable to develop a sense of person. Unable to express our values due to fear of what others may think or how others may perceive us.
